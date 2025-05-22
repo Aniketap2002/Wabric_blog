@@ -77,7 +77,7 @@ class _WabricBlogPageState extends State<WabricBlogPage> {
                   ),
                 ],
               ),
-              Image.asset("assets/menu.png", height: 24),
+              Image.asset("assets/menu.png", height: 12),
             ],
           ),
         ),
