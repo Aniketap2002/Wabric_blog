@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter/animation.dart';
 
 void main() => runApp(WabricBlogApp());
 String _currentSubtitle = "WHITE SHIRT";
